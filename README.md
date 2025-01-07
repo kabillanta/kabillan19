@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Kabillan
+Hi, I'm Kabillan
 
 When I'm not coding, I'm thinking about coding
 
